@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.helemus.util</groupId>
     <artifactId>com.helemus.sling.resource.gxt</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>GXT Sling Bundle Resource</name>
     <description>GXT Sling Bundle Resource; GXT version 2.1.1</description>
